@@ -67,31 +67,28 @@ Aqui é possivel encontrar o passo a passo, desde configurações de ambiente at
    - Para isso, abra seu terminal e digite:
    
    ```
-   python3 --version
-   
+   $ Python3 --version
    ```
    
    - Clone esse repositorio:
+   ```
    $ git clone https://github.com/AndreSnow/AutomacaoCotacao-EuroDolarOuro.git
+   ```
    
-   - Pode ser necessario instalar as bibliotecas antes, para isso, abra o terminal e digite:
+   - Pode ser necessario instalar as bibliotecas antes, consulte como fazer isso para sua versão de sistema operacional, utilizamos as bibliotecas:
+   [Selenium](https://selenium-python.readthedocs.io/) e [Pandas](https://pandas.pydata.org/)
    
-   $ Consulte como fazer isso para sua versão de sistema operacional, aqui utilizamos:
-   Selenium e Pandas
-   
-   $ Se estiver usando Ubuntu, digite no terminal:
+   - Se estiver usando OS Ubuntu, digite no terminal:
    
    ```
-   sudo pip3 install pandas
+   $ sudo pip3 install pandas
    
-   sudo pip install selenium
-   
+   $ sudo pip install selenium
    ```
 
    - Entrar no pasta onde salvou o arquivo, descompacte-o e abra o terminal, após isso, digite:
    ```
-   python3 automacao web.py
-
+   $ python3 automacao web.py
    ```
 
 ---
