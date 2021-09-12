@@ -95,16 +95,19 @@ Aqui é possivel encontrar o passo a passo, desde configurações de ambiente at
 
 <h2 align="center">Como Contribuir</h2>
 
-   ```
    - De um Fork no projeto. 
 
    - Crie uma nova branch com sua modificações:
+   ```
    $ git checkout -b my-feature
-
+   ```
    - Salve suas configurações e crie um commit dizendo com o que você contribuiu:
+   ```
    $ git commit -m "feature: My new feature"
+   ```
 
    - Nos envie:
+   ```
    $ git push origin my-feature
    ```
 
