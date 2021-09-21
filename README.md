@@ -27,9 +27,7 @@ O projeto tem o intuito de automatizar uma tarefa de atualiação de preços de 
 
 <h2 align="center">Preview</h2>
 
-   <p align="center">
-      <img src="https://i.ibb.co/yYWb4f8/2021-09-11-19-28-28.gif" width="400" alt="Cotação de preços">
-   </p>
+![2021-09-11-19-28-28](https://user-images.githubusercontent.com/58959633/134225042-7a7ce740-0d21-4306-8cc2-1634ba79bd0d.gif)
 
 ---
 
